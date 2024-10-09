@@ -6,6 +6,6 @@ This repo contains 5 microservice APIs:
 
 - Timestamp
 - Request Header Parser
-- URL Shortened
+- URL Shortener
 - Exercise Tracker
 - File Metadata
